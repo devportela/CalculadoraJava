@@ -1,7 +1,5 @@
 # 🖩 Calculadora em Java (Swing)
 
-![Captura de Tela](https://github.com/user-attachments/assets/26531bd0-7536-4287-a544-3d3192d4cfbb)
-
 ## 📌 Sobre o Projeto
 Este é um projeto simples de uma calculadora desenvolvida em Java utilizando o pacote Swing para a interface gráfica. Ele faz parte do meu repositório de projetos práticos em Java.
 
@@ -19,7 +17,8 @@ Este é um projeto simples de uma calculadora desenvolvida em Java utilizando o 
 Aqui está um GIF demonstrando o funcionamento da calculadora:
 
 ![GIF da Calculadora]
-(![gif calculadora (2) (1) (1)](https://github.com/user-attachments/assets/6eadcbcd-6ef3-45d6-a933-b07c98d7da8c)
+![gif calculadora (2) (1) (1)](https://github.com/user-attachments/assets/0c536f61-f64a-41b2-be16-0629b462bb12)
+
 
 
 📌 Desenvolvido por (https://github.com/devportela)
