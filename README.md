@@ -10,9 +10,9 @@ Este é um projeto simples de uma calculadora desenvolvida em Java utilizando o 
 ✅ Interface gráfica simples e intuitiva.  
 ✅ Botões responsivos para entrada dos números e operações.
 
-## 🛠️ Tecnologias Utilizadas
-- **Java** - Linguagem de programação principal
-- **Swing** - Biblioteca para criação da interface gráfica
+## 🛠 Tecnologias Utilizadas
+- *Java* - Linguagem de programação principal
+- *Swing* - Biblioteca para criação da interface gráfica
 
 ## 🎮 Demonstração
 
@@ -22,6 +22,4 @@ Aqui está um GIF demonstrando o funcionamento da calculadora:
 (![gif calculadora (2) (1) (1)](https://github.com/user-attachments/assets/6eadcbcd-6ef3-45d6-a933-b07c98d7da8c)
 
 
-📌 *Desenvolvido por (https://github.com/devportela)*
-
-
+📌 Desenvolvido por (https://github.com/devportela)
