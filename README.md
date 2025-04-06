@@ -1,4 +1,4 @@
-# 🖩 Calculadora em Java (Swing)
+#  🔢 Calculadora em Java (Swing)
 
 ## 📌 Sobre o Projeto
 Este é um projeto simples de uma calculadora desenvolvida em Java utilizando o pacote Swing para a interface gráfica. Ele faz parte do meu repositório de projetos práticos em Java.
